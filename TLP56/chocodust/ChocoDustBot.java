@@ -9,7 +9,7 @@ import org.powerbot.script.rt4.ClientContext;
 import java.util.ArrayList;
 import java.util.List;
 
-@Script.Manifest(name="ChocoDust Bot", description =  "A bot for turning chocolate bars into chocolate dust.", properties = "client=4;author=TLP56;topic=999")
+@Script.Manifest(name="ChocoDust Bot", description =  "A bot for turning chocolate bars into chocolate dust.", properties = "client=4;author=TLP56;topic=1347107")
 public class ChocoDustBot extends PollingScript<ClientContext> {
 
     List<Task> todoList = new ArrayList<Task>();
